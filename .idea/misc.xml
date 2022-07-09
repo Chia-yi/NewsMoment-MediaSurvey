@@ -5,6 +5,15 @@
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chiayi/StudioProjects/NewsMoment-Android-MediaSurvey/app_i/src/main/res/layout/activity_permission_rational.xml" value="0.109375" />
+        <entry key="..\:/Users/Chiayi/StudioProjects/NewsMoment-Android-MediaSurvey/app_i/src/main/res/layout/settings_activity.xml" value="0.109375" />
+        <entry key="..\:/Users/Chiayi/StudioProjects/NewsMoment-Android-MediaSurvey/app_i/src/main/res/xml/accessibility_service_config.xml" value="0.109375" />
+      </map>
+    </option>
+  </component>
   <component name="NullableNotNullManager">
     <option name="myDefaultNullable" value="org.jetbrains.annotations.Nullable" />
     <option name="myDefaultNotNull" value="androidx.annotation.NonNull" />
